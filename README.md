@@ -5,6 +5,7 @@ CNBC Channel in India hosts a business school competition called "Lessons In Mar
 Some of these videos are accessible only from India. So you may have to use a VPN.
 Most of the first 5-6 minutes and last 2 min of these videos is useless. Real case presentations typically start around seventh minute.
 
+Pull requests with notes/synopsis of each presentation is welcome. 
 
 College | Business | Link to case study | video link
 ------------- | -------------- | ------------- | --------------
